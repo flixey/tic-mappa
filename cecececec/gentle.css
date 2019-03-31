@@ -259,3 +259,23 @@ li {
     font-size: 3.7rem;
     color: #f4f4f4;
 }
+
+.and{
+  padding-left:29%
+}
+a:link {
+  text-decoration: none;
+  color: #bfa03d;
+}
+a:visited{
+  text-decoration: none;
+  color: #bfa03d;
+}
+a:hover, a:active{
+  color: #685b33;
+  text-decoration: none;
+}
+.sicko {
+  text-align:center;
+  padding: 1rem;
+}
